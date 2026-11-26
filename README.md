@@ -21,7 +21,7 @@ Provide a clear button to reset the calculator.
 Test the calculator with different arithmetic operations.
 
 PROGRAM:
-'''
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -102,11 +102,12 @@ PROGRAM:
 
 </body>
 </html>
-'''
+```
+
 
 OUTPUT:
 
-![alt text](image.png)
+![alt text](<Screenshot 2026-11-26 195448.png>)
 
 
 RESULT
