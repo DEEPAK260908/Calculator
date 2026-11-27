@@ -107,7 +107,7 @@ PROGRAM:
 
 OUTPUT:
 
-![alt text](<Screenshot 2026-11-26 195448.png>)
+![alt text](<Screenshot 2026-11-27 114633.png>)
 
 
 RESULT
